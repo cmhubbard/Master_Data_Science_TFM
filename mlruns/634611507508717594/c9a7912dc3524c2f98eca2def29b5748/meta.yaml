@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/beca1/Documents/GitHub/PR-01062_ESA_INNOVATION_TFM_CH/COPY----------TFM_CODIGO/mlruns/634611507508717594/c9a7912dc3524c2f98eca2def29b5748/artifacts
+end_time: 1718179472119
+entry_point_name: ''
+experiment_id: '634611507508717594'
+lifecycle_stage: active
+run_id: c9a7912dc3524c2f98eca2def29b5748
+run_name: clean-quail-248
+run_uuid: c9a7912dc3524c2f98eca2def29b5748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718179472087
+status: 4
+tags: []
+user_id: beca1
