@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/beca1/Documents/GitHub/PR-01062_ESA_INNOVATION_TFM_CH/COPY----------TFM_CODIGO/mlruns/259948346618525345/431d6761848d4a2686c32a609bf771cd/artifacts
+end_time: 1718265441896
+entry_point_name: ''
+experiment_id: '259948346618525345'
+lifecycle_stage: active
+run_id: 431d6761848d4a2686c32a609bf771cd
+run_name: persistent-swan-848
+run_uuid: 431d6761848d4a2686c32a609bf771cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718265420219
+status: 3
+tags: []
+user_id: beca1

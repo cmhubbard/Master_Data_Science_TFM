@@ -1,0 +1,1 @@
+{'knn__n_neighbors': [3, 4, 5, 6, 7, 8, 9], 'knn__weights': ['uniform', 'distance'], 'knn__metric': ['euclidean', 'manhattan', 'minkowski', 'chebyshev']}

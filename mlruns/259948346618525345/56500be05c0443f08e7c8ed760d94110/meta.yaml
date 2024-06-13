@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/beca1/Documents/GitHub/PR-01062_ESA_INNOVATION_TFM_CH/COPY----------TFM_CODIGO/mlruns/259948346618525345/56500be05c0443f08e7c8ed760d94110/artifacts
+end_time: 1718265522213
+entry_point_name: ''
+experiment_id: '259948346618525345'
+lifecycle_stage: active
+run_id: 56500be05c0443f08e7c8ed760d94110
+run_name: placid-fox-701
+run_uuid: 56500be05c0443f08e7c8ed760d94110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718265472928
+status: 3
+tags: []
+user_id: beca1
